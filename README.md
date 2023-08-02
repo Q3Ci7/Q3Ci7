@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Q3Ci7/Q3Ci7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=恐龙!;抗狼~;抗狼~;抗!&center=true&font=Roboto&size=27" /></div>
+
