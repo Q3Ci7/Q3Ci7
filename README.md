@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=恐龙!;抗狼~;抗狼~;抗!&center=true&font=Roboto&size=27" /></div>-->
-![](https://raw.githubusercontent.com/Q3Ci7/Q3Ci7/main/assets/github-contribution-grid-snake.svg)
-
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=恐龙!;抗狼~;抗狼~;抗!&center=true&font=Roboto&size=27" /></div>
 
