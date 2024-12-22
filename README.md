@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=恐龙!;抗狼~;抗狼~;抗!&center=true&font=Roboto&size=27" /></div>
+<!-- <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=恐龙!;抗狼~;抗狼~;抗!&center=true&font=Roboto&size=27" /></div> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Agu+Display&pause=1000&color=F73A08&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Ricky%2C+Ricky;Wake+UP" alt="Typing SVG" /></a>
 
