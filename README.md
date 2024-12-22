@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Agu+Display&color=F73A08&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&lines=Ricky%2C+Ricky" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Q3Ci7/Q3Ci7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Q3Ci7/Q3Ci7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Q3Ci7/Q3Ci7/output/github-contribution-grid-snake.svg">
+</picture>
